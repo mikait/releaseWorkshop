@@ -17,8 +17,8 @@
 
 	<scm>
     	<connection>scm:git:git@github.com:mikait/releaseWorkshop.git</connection>
-    	<developerConnection>git@github.com:mikait/releaseWorkshop.git</developerConnection>
-    	<url>https://github.com/kauppalehti/releaseWorkshop</url>
+    	<developerConnection>scm:git:git@github.com:mikait/releaseWorkshop.git</developerConnection>
+    	<url>https://github.com/mikait/releaseWorkshop</url>
 	</scm>
 
 	<dependencies>
